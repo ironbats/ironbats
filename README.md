@@ -51,11 +51,8 @@
 [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>][heroku]&nbsp;
 
   
-[docker]: https://www.docker.com/
-[kubernetes]: https://kubernetes.io/pt-br/
-[yarn]: https://yarnpkg.com/
-[spring]: https://spring.io/
-[redis]: https://redis.io/
+[aws]: https://aws.amazon.com/
+[gcp]: https://cloud.google.com/
+[heroku]: https://www.heroku.com/
 
-  
 </div>

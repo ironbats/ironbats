@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/badge/kotlin-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]&nbsp;
 [<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>][python]&nbsp;
 [<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>][javascript]&nbsp;
-[<img src="https://img.shields.io/badge/go-lang-blue"/>][go-lang]&nbsp;
+[<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>][go-lang]&nbsp;
   
   
 

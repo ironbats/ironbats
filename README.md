@@ -1,5 +1,7 @@
 ### Passionate about technology
 
+### 👋 Hi there visitor <img src="https://profile-counter.glitch.me/{ironbats}/count.svg" alt="IronBats :: Visitor's Count" />
+
 <div align="center">
 
 # Languages

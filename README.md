@@ -1,5 +1,3 @@
-### Passionate about technology
-
 <div align="center">
   
   ## About Me

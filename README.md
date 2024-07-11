@@ -8,9 +8,18 @@
   
   ## About Me
   
-  ![Profile Image](https://www.pushnamaster.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsoftware-expert.9355fcbb.jpeg&w=384&q=75)
+  <img src="https://www.pushnamaster.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsoftware-expert.9355fcbb.jpeg&w=384&q=75" width="150" height="150" style="border-radius: 50%;"/>
   
-  Hi, I'm Felipe, Owner Push Na Master, a programmer, architect, and technology team leader. I am passionate about developing scalable and efficient solutions. Welcome to my GitHub profile!
+  ### Hi, I'm Felipe
+
+  **Owner Push Na Master | Programmer | Architect | Tech Leader**
+
+  I'm passionate about developing scalable and efficient solutions. Welcome to my GitHub profile! Feel free to explore my repositories and connect with me on social media.
+
+  [![Contact Me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ironbats)
+  [![Follow Me on Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ironbats)
+  [![Follow Me on Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ironbats)
+  [![Follow Me on GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ironbats)
 
   ### Languages
   
@@ -51,16 +60,9 @@
   [aws]: https://aws.amazon.com/
   [gcp]: https://cloud.google.com/
   [heroku]: https://www.heroku.com/
-  
-  ### Connect with me
 
-  [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>][github]&nbsp;
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]&nbsp;
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]&nbsp;
-
-  [github]: https://github.com/ironbats
-  [linkedin]: https://www.linkedin.com/in/ironbats
-  [twitter]: https://twitter.com/ironbats
-  [instagram]: https://www.instagram.com/ironbats
 </div>
+
+<p align="center">
+  <strong>Check out my latest projects and feel free to reach out for collaborations or mentorship!</strong>
+</p>

@@ -48,11 +48,7 @@
   ### Cloud
   
   [<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>][aws]&nbsp;
-  [<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>][gcp]&nbsp;
-  [<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>][heroku]&nbsp;
 
   [aws]: https://aws.amazon.com/
-  [gcp]: https://cloud.google.com/
-  [heroku]: https://www.heroku.com/
 
 </div>

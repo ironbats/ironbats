@@ -5,7 +5,7 @@
   <img src="https://www.pushnamaster.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsoftware-expert.9355fcbb.jpeg&w=384&q=75" width="150" height="150" style="border-radius: 50%;"/>
   
   ### Hi, I'm Felipe
-  **E-book Software Expert: https://software-expert-ebook.hotmart.host/
+  Download E-book Software Expert: https://software-expert-ebook.hotmart.host/
 
   **Owner Push Na Master | Programmer | Architect | Tech Leader**
 

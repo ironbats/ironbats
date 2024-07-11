@@ -8,7 +8,7 @@
   
   ## About Me
   
-  ![Profile Image](https://avatars.githubusercontent.com/u/1?v=4)
+  //![Profile Image](https://avatars.githubusercontent.com/u/1?v=4)
   
   Hi, I'm IronBats, a programmer, architect, and technology team leader. I am passionate about developing scalable and efficient solutions. Welcome to my GitHub profile!
 

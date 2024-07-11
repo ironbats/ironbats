@@ -1,9 +1,5 @@
 ### Passionate about technology
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{ironbats}/count.svg" alt="IronBats :: Visitor's Count" />
-</p>
-
 <div align="center">
   
   ## About Me

@@ -9,7 +9,7 @@
   - Course KSQL Arch domain for experts : https://hotmart.com/pt-br/marketplace/produtos/k-sql-arch-domain-modulo-1/R94814283T
   - Push Na Master : https://www.pushnamaster.io/pt
 
-  **Owner Push Na Master | Programmer | Architect | Tech Leader**
+  **CTO Push Na Master | Programmer | Architect | Tech Leader**
 
   I'm passionate about developing scalable and efficient solutions. Welcome to my GitHub profile! Feel free to explore my repositories and connect with me on social media.
 

@@ -5,9 +5,9 @@
   <img src="https://www.pushnamaster.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsoftware-expert.9355fcbb.jpeg&w=384&q=75" width="150" height="150" style="border-radius: 50%;"/>
   
   ### Hi, I'm Felipe
-  Download E-book Software Expert: https://software-expert-ebook.hotmart.host/
-  Course KSQL Arch domain for experts : https://hotmart.com/pt-br/marketplace/produtos/k-sql-arch-domain-modulo-1/R94814283T
-  Push Na Master : https://www.pushnamaster.io/pt
+  - Download E-book Software Expert: https://software-expert-ebook.hotmart.host/
+  - Course KSQL Arch domain for experts : https://hotmart.com/pt-br/marketplace/produtos/k-sql-arch-domain-modulo-1/R94814283T
+  - Push Na Master : https://www.pushnamaster.io/pt
 
   **Owner Push Na Master | Programmer | Architect | Tech Leader**
 

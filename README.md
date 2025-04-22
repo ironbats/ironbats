@@ -6,7 +6,8 @@
   
   ### Hi, I'm Felipe
   Download E-book Software Expert: https://software-expert-ebook.hotmart.host/
-  Push Na Master : https://www.pushnamaster.io
+  Course KSQL Arch domain for experts : https://hotmart.com/pt-br/marketplace/produtos/k-sql-arch-domain-modulo-1/R94814283T
+  Push Na Master : https://www.pushnamaster.io/pt
 
   **Owner Push Na Master | Programmer | Architect | Tech Leader**
 

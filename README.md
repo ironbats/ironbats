@@ -14,11 +14,7 @@ Conecto estratégia de tecnologia, arquitetura de software e desenvolvimento de 
 
 ## Da estratégia à implementação
 
-Sou programador, arquiteto de software e líder de times de tecnologia. Na **Push Na Master**, reúno atuação técnica, liderança e educação em engenharia de software.
-
-Meu foco é conectar as necessidades do negócio às decisões de arquitetura: entender o problema, explicitar os compromissos entre alternativas e construir soluções que possam evoluir. O código faz parte dessa conversa, junto com a capacidade do time de entregar, operar e manter o que constrói.
-
-Neste GitHub, compartilho projetos, estudos e provas de conceito sobre sistemas distribuídos, integração de dados, observabilidade e IA aplicada ao desenvolvimento de software.
+Sou programador, arquiteto de software e líder de times de tecnologia. 
 
 ## Como penso tecnologia e liderança
 

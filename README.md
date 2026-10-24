@@ -6,7 +6,7 @@
 
 Conecto estratégia de tecnologia, arquitetura de software e desenvolvimento de pessoas.
 
-[Push Na Master](https://microlabs.com.br/) · [Conteúdo técnico](https://www.instagram.com/felipe.vcto/) · [LinkedIn da Push Na Master](https://www.linkedin.com/in/felipe-rodrigues-it/)
+[Mia Enterprise AI](https://microlabs.com.br/) · [Canal](https://www.instagram.com/felipe.vcto/) · [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-it/)
 
 </div>
 

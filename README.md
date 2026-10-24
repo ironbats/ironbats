@@ -74,12 +74,10 @@ Uma seleção para explorar as implementações e os experimentos por trás dess
 
 Na **Push Na Master**, compartilho conteúdo sobre programação, arquitetura e evolução técnica de profissionais de software.
 
-- [**Push Na Master**](https://www.pushnamaster.io/pt) — conteúdo e iniciativas de educação em tecnologia.
-- [**E-book Software Expert**](https://software-expert-ebook.hotmart.host/) — material de estudo para aprofundamento técnico.
-- [**KSQL Arch Domain for Experts · Módulo 1**](https://hotmart.com/pt-br/marketplace/produtos/k-sql-arch-domain-modulo-1/R94814283T) — curso disponível na Hotmart.
+- [**Mia Enterprise AI**](https://microlabs.com.br/) — conteúdo e iniciativas de educação em tecnologia.
 
 ## Vamos conversar
 
 Tenho interesse em conversas sobre **liderança de engenharia, arquitetura de software, sistemas distribuídos e IA aplicada ao desenvolvimento**.
 
-Encontre a Push Na Master no [LinkedIn](https://www.linkedin.com/company/103932249/) e no [Instagram](https://www.instagram.com/push_na_master/), ou conheça as iniciativas pelo [site](https://www.pushnamaster.io/pt).
+Me encontre :  [LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-it/) e no [Instagram](https://www.instagram.com/felipe.vcto/).

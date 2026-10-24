@@ -1,3 +1,35 @@
+<div align="center">
+
+# Felipe · @ironbats
+
+**CTO na Push Na Master · Software Architect · Tech Leader**
+
+Conecto estratégia de tecnologia, arquitetura de software e desenvolvimento de pessoas.
+
+[Push Na Master](https://www.pushnamaster.io/pt) · [Conteúdo técnico](https://www.instagram.com/push_na_master/) · [LinkedIn da Push Na Master](https://www.linkedin.com/company/103932249/)
+
+</div>
+
+---
+
+## Da estratégia à implementação
+
+Sou programador, arquiteto de software e líder de times de tecnologia. Na **Push Na Master**, reúno atuação técnica, liderança e educação em engenharia de software.
+
+Meu foco é conectar as necessidades do negócio às decisões de arquitetura: entender o problema, explicitar os compromissos entre alternativas e construir soluções que possam evoluir. O código faz parte dessa conversa, junto com a capacidade do time de entregar, operar e manter o que constrói.
+
+Neste GitHub, compartilho projetos, estudos e provas de conceito sobre sistemas distribuídos, integração de dados, observabilidade e IA aplicada ao desenvolvimento de software.
+
+## Como penso tecnologia e liderança
+
+| Perspectiva | O que orienta minhas decisões |
+| :--- | :--- |
+| **Negócio e tecnologia** | Relacionar prioridades de produto às escolhas técnicas, considerando valor, custo, risco e capacidade de execução. |
+| **Arquitetura de software** | Definir responsabilidades, contratos e limites claros; escolher a complexidade que o problema exige. |
+| **Engenharia e operação** | Considerar integração, diagnóstico de falhas e manutenção desde o desenho da solução. |
+| **Liderança técnica** | Tornar decisões compreensíveis, compartilhar contexto e desenvolver autonomia no time. |
+| **Educação** | Transformar conceitos de arquitetura e engenharia em exemplos que possam ser estudados e discutidos. |
+
 ## Engenharia na prática
 
 ### Arquitetura e sistemas distribuídos
